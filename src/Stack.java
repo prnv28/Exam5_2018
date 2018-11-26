@@ -57,7 +57,4 @@ public class Stack {
         s1.Display();
 
     }
-
-
-
 }
